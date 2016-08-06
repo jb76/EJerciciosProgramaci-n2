@@ -1,0 +1,5 @@
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosProgramación2\NumeroVocal\bin\Debug\NumeroVocal.exe.config
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosProgramación2\NumeroVocal\bin\Debug\NumeroVocal.exe
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosProgramación2\NumeroVocal\bin\Debug\NumeroVocal.pdb
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosProgramación2\NumeroVocal\obj\Debug\NumeroVocal.exe
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosProgramación2\NumeroVocal\obj\Debug\NumeroVocal.pdb
