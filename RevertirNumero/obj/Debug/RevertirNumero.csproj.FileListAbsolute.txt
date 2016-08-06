@@ -1,0 +1,6 @@
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosProgramación2\RevertirNumero\bin\Debug\RevertirNumero.exe.config
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosProgramación2\RevertirNumero\bin\Debug\RevertirNumero.exe
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosProgramación2\RevertirNumero\bin\Debug\RevertirNumero.pdb
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosProgramación2\RevertirNumero\obj\Debug\RevertirNumero.csprojResolveAssemblyReference.cache
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosProgramación2\RevertirNumero\obj\Debug\RevertirNumero.exe
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosProgramación2\RevertirNumero\obj\Debug\RevertirNumero.pdb
