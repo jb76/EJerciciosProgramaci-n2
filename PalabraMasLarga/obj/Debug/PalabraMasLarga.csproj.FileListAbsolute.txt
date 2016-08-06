@@ -1,0 +1,5 @@
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosProgramación2\PalabraMasLarga\bin\Debug\PalabraMasLarga.exe.config
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosProgramación2\PalabraMasLarga\bin\Debug\PalabraMasLarga.exe
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosProgramación2\PalabraMasLarga\bin\Debug\PalabraMasLarga.pdb
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosProgramación2\PalabraMasLarga\obj\Debug\PalabraMasLarga.exe
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosProgramación2\PalabraMasLarga\obj\Debug\PalabraMasLarga.pdb
