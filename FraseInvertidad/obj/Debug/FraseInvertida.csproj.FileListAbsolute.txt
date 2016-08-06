@@ -1,0 +1,6 @@
+C:\Users\Noemy\Desktop\EjerciciosProgramación2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Noemy\Desktop\EjerciciosProgramación2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Noemy\Desktop\EjerciciosProgramación2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Noemy\Desktop\EjerciciosProgramación2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Noemy\Desktop\EjerciciosProgramación2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Noemy\Desktop\EjerciciosProgramación2\ConsoleApplication1\obj\Debug\FraseInvertida.csprojResolveAssemblyReference.cache
